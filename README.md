@@ -3,9 +3,30 @@
 R functions for record linkage with big data
 
 
+- Use R-package `datatable`
+
+- Use R-package matrix and the function `sparse` for triangular matrixes 
+
+- Editing is important 
+
+- Use a sequential strategy
+
+- See through the data as rarely as possible.
+
+
+
 ## R packages
 
 - [Github page for the fastLink package](https://github.com/kosukeimai/fastLink)
+
+
+# Research Papers
+
+- TED ENAMORADO et al. -  [Using a Probabilistic Model to Assist Merging of Large-Scale
+Administrative Records](https://imai.fas.harvard.edu/research/files/linkage.pdf)
+- [Online Supplementary Information for “Using a
+Probabilistic Model to Assist Merging of
+Large-scale Administrative Records.”](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0003055418000783/resource/name/S0003055418000783sup001.pdf)
 
 
 ## Youtube Videos

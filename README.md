@@ -13,11 +13,16 @@ R functions for record linkage with big data
 
 - See through the data as rarely as possible.
 
-
+- Use R-package parallel for parallelization
 
 ## R packages
 
 - [Github page for the fastLink package](https://github.com/kosukeimai/fastLink)
+
+
+- [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)
+
+
 
 
 # Research Papers

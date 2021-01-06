@@ -1,7 +1,8 @@
-# recordlinkage
+# Record Linkage
+
+## Strategy
 
 R functions for record linkage with big data
-
 
 - Use R-package `datatable`
 
@@ -22,8 +23,15 @@ R functions for record linkage with big data
 
 - [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)
 
+### Spark
+
+- [sparklyr](https://cran.r-project.org/web/packages/sparklyr/index.html)
+- [SparkR](http://spark.apache.org/docs/latest/sparkr.html)
 
 
+## Key words
+
+- Multibit-Trees, [Bloom-Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 
 # Research Papers
 

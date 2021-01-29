@@ -20,8 +20,13 @@ R functions for record linkage with big data
 
 - [Github page for the fastLink package](https://github.com/kosukeimai/fastLink)
 
-
 - [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)
+
+
+### Data Import
+
+- [How to import only some lines of a csv?](https://stackoverflow.com/questions/23197243/how-to-read-only-lines-that-fulfil-a-condition-from-a-csv-into-r)
+- [Check file size before import](https://stackoverflow.com/questions/30580798/how-to-check-file-size-before-opening)
 
 ### Spark
 

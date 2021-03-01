@@ -27,6 +27,7 @@ R functions for record linkage with big data
 
 - [How to import only some lines of a csv?](https://stackoverflow.com/questions/23197243/how-to-read-only-lines-that-fulfil-a-condition-from-a-csv-into-r)
 - [Check file size before import](https://stackoverflow.com/questions/30580798/how-to-check-file-size-before-opening)
+- [Introduction to dbplyr](https://cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html)
 
 ### Spark
 

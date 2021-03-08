@@ -29,6 +29,10 @@ R functions for record linkage with big data
 - [Check file size before import](https://stackoverflow.com/questions/30580798/how-to-check-file-size-before-opening)
 - [Introduction to dbplyr](https://cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html)
 
+### Data Processing
+
+- [Use EACHI in data.table](https://stackoverflow.com/questions/27004002/eachi-in-data-table/27004566#27004566)
+
 ### Spark
 
 - [sparklyr](https://cran.r-project.org/web/packages/sparklyr/index.html)

@@ -40,6 +40,11 @@ R functions for record linkage with big data
 
 - Record Linkage - [Fuzzy Matching and Deduplicating Hundreds of Millions of Records using Apache Spark](
 
+## Theory on the EM Algorithm
+
+- [Peter Pfaffelhuber - Der E(xpectation-)M(aximization)-Algorithmus](https://www.stochastik.uni-freiburg.de/lehre/WS-2015/mathstat/emskript)
+
+
 ## Key words
 
 - Multibit-Trees, [Bloom-Filter](https://en.wikipedia.org/wiki/Bloom_filter)

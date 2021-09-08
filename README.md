@@ -27,6 +27,7 @@ R functions for record linkage with big data
 
 - [sparklyr](https://cran.r-project.org/web/packages/sparklyr/index.html)
 - [SparkR](http://spark.apache.org/docs/latest/sparkr.html)
+- [Book on mastering Spark in R](https://therinspark.com/)
 
 
 ## Key words
@@ -35,7 +36,7 @@ R functions for record linkage with big data
 
 # Research Papers
 
-- TED ENAMORADO et al. -  [Using a Probabilistic Model to Assist Merging of Large-Scale
+- Ted Enamorado et al. -  [Using a Probabilistic Model to Assist Merging of Large-Scale
 Administrative Records](https://imai.fas.harvard.edu/research/files/linkage.pdf)
 - [Online Supplementary Information for “Using a
 Probabilistic Model to Assist Merging of

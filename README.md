@@ -23,6 +23,11 @@ R functions for record linkage with big data
 - [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)
 
 
+- [ludic package](https://www.nature.com/articles/sdata2018298)
+
+
+- [diyar package](https://olisansonwu.github.io/diyar/index.html)
+
 ### Data Import
 
 - [How to import only some lines of a csv?](https://stackoverflow.com/questions/23197243/how-to-read-only-lines-that-fulfil-a-condition-from-a-csv-into-r)

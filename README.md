@@ -55,6 +55,12 @@ R functions for record linkage with big data
 
 - Multibit-Trees, [Bloom-Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 
+# Record Linkage with Python
+
+https://recordlinkage.readthedocs.io/en/latest/notebooks/link_two_dataframes.html#Make-record-pairs
+
+https://recordlinkage.readthedocs.io/en/latest/notebooks/classifiers.html
+
 # Research Papers and Literature
 
 - Ted Enamorado et al. -  [Using a Probabilistic Model to Assist Merging of Large-Scale

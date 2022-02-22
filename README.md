@@ -18,6 +18,11 @@ R functions for record linkage with big data
 
 ## R packages
 
+### fastLink package
+
+- [geht posterior Probst](https://www.rdocumentation.org/packages/fastLink/versions/0.6.0/topics/getPosterior)
+
+
 - [Github page for the fastLink package](https://github.com/kosukeimai/fastLink)
 
 - [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)

@@ -28,6 +28,23 @@ R functions for record linkage with big data
 
 - [diyar package](https://olisansonwu.github.io/diyar/index.html)
 
+
+- [Matching methods](https://cran.r-project.org/web/packages/MatchIt/vignettes/matching-methods.html)
+
+### Matching probability
+
+- [p.gamma.k.m: The posterior of the matching probability for a specific matching field.](https://www.opensourceagenda.com/projects/fastlink)
+
+
+- [stack_fastLink_matches.R](https://github.com/brad-cannell/cerebro/blob/master/stack_fastLink_matches.R)
+
+- [match_probabilities_code.R](https://github.com/tnecamp/match_probabilities/blob/master/match_probabilities_code.R)
+
+- [Keypoint filtering based on matching probability](https://github.com/AlexandraPapadaki/Match-or-no-match-Keypoint-filtering-based-on-matching-probability/blob/main/README.md) - [function](https://github.com/AlexandraPapadaki/Match-or-no-match-Keypoint-filtering-based-on-matching-probability)
+
+
+
+- [emlinkRS](https://www.rdocumentation.org/packages/fastLink/versions/0.6.0/topics/emlinkRS)
 ### Data Import
 
 - [How to import only some lines of a csv?](https://stackoverflow.com/questions/23197243/how-to-read-only-lines-that-fulfil-a-condition-from-a-csv-into-r)

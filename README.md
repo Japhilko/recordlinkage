@@ -18,6 +18,11 @@ R functions for record linkage with big data
 
 ## R packages
 
+### fastLink package
+
+- [geht posterior Probst](https://www.rdocumentation.org/packages/fastLink/versions/0.6.0/topics/getPosterior)
+
+
 - [Github page for the fastLink package](https://github.com/kosukeimai/fastLink)
 
 - [How to go parallel](https://www.r-bloggers.com/2015/02/how-to-go-parallel-in-r-basics-tips/)
@@ -88,6 +93,12 @@ Parametric Causal Inference](https://r.iq.harvard.edu/docs/matchit/2.4-20/matchi
 ## Key words
 
 - Multibit-Trees, [Bloom-Filter](https://en.wikipedia.org/wiki/Bloom_filter)
+
+# Record Linkage with Python
+
+https://recordlinkage.readthedocs.io/en/latest/notebooks/link_two_dataframes.html#Make-record-pairs
+
+https://recordlinkage.readthedocs.io/en/latest/notebooks/classifiers.html
 
 # Research Papers and Literature
 

@@ -31,6 +31,8 @@ R functions for record linkage with big data
 
 - [Matching methods](https://cran.r-project.org/web/packages/MatchIt/vignettes/matching-methods.html)
 
+- [Matching Package](https://www.r-project.org/conferences/useR-2007/program/presentations/sekhon.pdf)
+
 ### Matching probability
 
 - [p.gamma.k.m: The posterior of the matching probability for a specific matching field.](https://www.opensourceagenda.com/projects/fastlink)
@@ -42,9 +44,24 @@ R functions for record linkage with big data
 
 - [Keypoint filtering based on matching probability](https://github.com/AlexandraPapadaki/Match-or-no-match-Keypoint-filtering-based-on-matching-probability/blob/main/README.md) - [function](https://github.com/AlexandraPapadaki/Match-or-no-match-Keypoint-filtering-based-on-matching-probability)
 
-
-
 - [emlinkRS](https://www.rdocumentation.org/packages/fastLink/versions/0.6.0/topics/emlinkRS)
+
+### R Literature
+
+
+- [Using a Probabilistic Model to Assist Merging
+of Large-scale Administrative Records](https://oar.princeton.edu/jspui/bitstream/88435/pr1r180/1/%5BAPSR%5Dlinkage.pdf)
+
+- [Fast String Matching by Using Probabilities:
+On an Optimal Mismatch Variant of Horspool’s Algorithm](http://wwwagak.informatik.uni-kl.de/downloads/papers/Fast_String_Matching_by_Using_Probabilities_On_an_Optimal_Mismatch_Variant_of_Horspools_Algorithm.pdf)
+
+
+- [Data Engineering, Record Linking and Deduplication](https://open-canada.github.io/r4gc/data-engineering-record-linking-and-deduplication.html)
+
+
+- [MatchIt: Nonparametric Preprocessing for
+Parametric Causal Inference](https://r.iq.harvard.edu/docs/matchit/2.4-20/matchit.pdf)
+
 ### Data Import
 
 - [How to import only some lines of a csv?](https://stackoverflow.com/questions/23197243/how-to-read-only-lines-that-fulfil-a-condition-from-a-csv-into-r)
